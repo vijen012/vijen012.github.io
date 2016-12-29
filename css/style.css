@@ -228,6 +228,9 @@ h2.tittle {
 	/*-- w3layouts --*/
 	text-align: center;
 	color:#222;
+    border-top:none;
+    border-bottom: none;
+    display: block;
 }
 h3.tittle1 {
     font-size: 3.5em;
@@ -2411,4 +2414,3 @@ h2.tittle {
     background: none;
 
 }
-
