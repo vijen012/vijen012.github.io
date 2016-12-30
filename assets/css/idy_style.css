@@ -187,7 +187,7 @@ h3 {
 }
 
 p {
-  max-width: 600px; 
+  max-width: 650px; 
 }
 .idy_simple_page p {
   max-width: 100%;
@@ -273,7 +273,7 @@ h1.entry-title {
 
 @media (min-width: 1200px) {
   .container {
-    width: 994px; 
+    width: 1200px; 
   } 
 }
 .btn, input[type="submit"], .btn:focus {
