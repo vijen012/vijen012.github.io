@@ -159,6 +159,7 @@ div#bs-example-navbar-collapse-1 {
     font-weight: 600;
     color: #eee;
 	font-family: 'Racing Sans One', cursive;
+    margin-top: 0.5em;
 }
 .caption p span {
     font-size: 0.5em;
